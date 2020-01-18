@@ -1,0 +1,2470 @@
+var dataJson =[  
+	{  
+		"name":"icon-addon",
+		"category":[  
+			"zigsaw",
+			"puzzle"
+		]
+	}
+	,
+	{  
+		"name":"icon-address",
+		"categor":[  
+			"email",
+			"at the rate"
+		]
+	}
+	,
+	{  
+		"name":"icon-alarm",
+		"category":[  
+			"clock",
+			"time",
+			"timer"
+		]
+	}
+	,
+	{  
+		"name":"icon-alert",
+		"category":[  
+			"sign",
+			"exclamation"
+		]
+	}
+	,
+	{  
+		"name":"icon-anchor",
+		"category":[  
+			"pin"
+		]
+	}
+	,
+	{  
+		"name":"icon-anounce",
+		"category":[  
+			"horn",
+			"music"
+		]
+	}
+	,
+	{  
+		"name":"icon-arr-down",
+		"category":[  
+			"sign",
+			"pointer"
+		]
+	}
+	,
+	{  
+		"name":"icon-arr-left",
+		"category":[  
+			"sign",
+			"pointer"
+		]
+	}
+	,
+	{  
+		"name":"icon-arr-right",
+		"category":[  
+			"sign",
+			"pointer"
+		]
+	}   
+	,
+	{  
+		"name":"icon-arr-up",
+		"category":[  
+			"sign",
+			"pointer"
+		]
+	}
+	,
+	{  
+		"name":"icon-arrow-down",
+		"category":[  
+			"sign",
+			"dart",
+			"pointer"
+		]
+	}
+	,
+	{  
+		"name":"icon-arrow-left",
+		"category":[  
+			"sign",
+			"dart",
+			"pointer"
+		]
+	}
+	,
+	{  
+		"name":"icon-arrow-right",
+		"category":[  
+			"sign",
+			"dart",
+			"pointer"
+		]
+	}
+	,
+	{  
+		"name":"icon-arrow-up",
+		"category":[  
+			"sign",
+			"dart",
+			"pointer"
+		]
+	}
+	,
+	{  
+		"name":"icon-atom",
+		"category":[  
+			"chemical element",
+			"molecule"
+		]
+	}
+	,
+	{  
+		"name":"icon-attach",
+		"category":[  
+			"stationery",
+			"paper clip"
+		]
+	}
+	,
+	{  
+		"name":"icon-backpack",
+		"category":[  
+			"bag"
+		]
+	}
+	,
+	{  
+		"name":"icon-badge",
+		"category":[  
+			"brooch"
+		]
+	}
+	,
+	{  
+		"name":"icon-balloon",
+		"category":[  
+			"adventure",
+			"travel",
+			"hot air balloon"
+		]
+	}
+	,
+	{  
+		"name":"icon-bandaid",
+		"category":[  
+			"first aid",
+			"medicine",
+			"health"
+		]
+	}
+	,
+	{  
+		"name":"icon-barcode",
+		"category":[  
+			"calculation"
+		]
+	}
+	,
+	{  
+		"name":"icon-beaker",
+		"category":[  
+			"measurement",
+			"science lab",
+			"chemical",
+			"reaction"
+		]
+	}
+	,
+	{  
+		"name":"icon-bed",
+		"category":[  
+			"room",
+			"hotel",
+			"house keeping"
+		]
+	}
+	,
+	{
+		"name" : "icon-beer",
+		"category":[  
+			"drink",
+			"beverage",
+			"celebration",
+			"relax"
+		]
+	}
+	,
+	{
+		"name" : "icon-bell",
+		"category":[  
+			"alert",
+			"alram",
+			"ring",
+			"notification"
+		]
+	}
+	,
+	{
+		"name" : "icon-binocular",
+		"category":[  
+			"sight seeing",
+			"watching",
+			"explore"
+		]
+	}
+	,
+	{
+		"name" : "icon-bird",
+		"category":[  
+			"animal",
+			"wildlife"
+		]
+	}
+	,
+	{
+		"name" : "icon-bold",
+		"category":[  
+			"format"
+		]
+	}
+	,
+	{
+		"name" : "icon-bowl",
+		"category":[  
+			"food",
+			"soup",
+			"recipe"
+		]
+	}
+	,
+	{
+		"name" : "icon-briefcase",
+		"category":[  
+			"document",
+			"professional",
+			"secret",
+			"office"
+		]
+	}
+	,
+	{
+		"name" : "icon-browser",
+		"category":[  
+			"website",
+			"cross browser"
+		]
+	}
+	,
+	{
+		"name" : "icon-brush",
+		"category":[  
+			"paint",
+			"art"
+		]
+	}
+	,
+	{
+		"name" : "icon-bulb",
+		"category":[  
+			"idea",
+			"light",
+			"electricity",
+			"power",
+			"energy"
+		]
+	}
+	,
+	{
+		"name" : "icon-bungee",
+		"category":[  
+			"adventure",
+			"activities",
+			"holidays"
+		]
+	}
+	,
+	{
+		"name" : "icon-bus",
+		"category":[  
+			"transport",
+			"travel",
+			"vechile"
+		]
+	}
+	,
+	{
+		"name" : "icon-butcher-knife",
+		"category":[  
+			"sharp",
+			"kitchen"
+		]
+	}
+	,
+	{
+		"name" : "icon-cactus",
+		"category":[  
+			"desert",
+			"plant",
+			"wild"
+		]
+	}
+	,
+	{
+		"name" : "icon-cake",
+		"category":[  
+			"birthday",
+			"desert",
+			"food",
+			"sweet"
+		]
+	}
+	,
+	{
+		"name" : "icon-calculate",
+		"category":[  
+			"add subtract multipy divide",
+			"amount",
+			"sum"
+		]
+	}
+	,
+	{
+		"name" : "icon-calendar",
+		"category":[  
+			"date",
+			"year",
+			"schedule"
+		]
+	}
+	,
+	{
+		"name" : "icon-camel",
+		"category":[  
+			"animal",
+			"desert"
+		]
+	}
+	,
+	{
+		"name" : "icon-camera",
+		"category":[  
+			"photo",
+			"picture"
+		]
+	}
+	,
+	{
+		"name" : "icon-camp-fire",
+		"category":[  
+			"night out",
+			"adventure",
+			"camping"
+		]
+	}
+	,
+	{
+		"name" : "icon-car",
+		"category":[  
+			"travel",
+			"transport",
+			"taxi",
+			"vechile"
+		]
+	}
+	,
+	{
+		"name" : "icon-cart",
+		"category":[  
+			"buy",
+			"shopping",
+			"ecommerce"
+		]
+	}
+	,
+	{
+		"name" : "icon-cat",
+		"category":[  
+			"animal",
+			"pet"
+		]
+	}
+	,
+	{
+		"name" : "icon-cd",
+		"category":[  
+			"music",
+			"disc"
+		]
+	}
+	,
+	{
+		"name" : "icon-chart-bar",
+		"category":[  
+			"statisitics",
+			"data",
+			"stock",
+			"performace",
+			"bar diagram",
+			"chart"
+		]
+	}
+	,
+	{
+		"name" : "icon-chart-line",
+		"category":[  
+			"statisitics",
+			"data",
+			"stock",
+			"performace",
+			"line diagram",
+			"chart"
+		]
+	}
+	,
+	{
+		"name" : "icon-chart-pie",
+		"category":[  
+			"statisitics",
+			"data",
+			"stock",
+			"performace",
+			"pie diagram",
+			"chart",
+			"ratio"
+		]
+	}
+	,
+	{
+		"name" : "icon-chart-stock",
+		"category":[  
+			"statisitics",
+			"data",
+			"stock",
+			"performace",
+			"bar diagram",
+			"chart"
+		]
+	}
+	,
+	{
+		"name" : "icon-chat",
+		"category":[  
+			"talk",
+			"communicate",
+			"comment"
+		]
+	}
+	,
+	{
+		"name" : "icon-checklist",
+		"category":[  
+			"to do list"
+		]
+	}
+	,
+	{
+		"name" : "icon-chicken",
+		"category":[  
+			"food",
+			"snacks",
+			"recipe"
+		]
+	}
+	,
+	{
+		"name" : "icon-chilli",
+		"category":[  
+			"ingredients",
+			"hot",
+			"spices",
+			"food"
+		]
+	}
+	,
+	{
+		"name" : "icon-chrome",
+		"category":[  
+			"brower",
+			"cross"
+		]
+	}
+	,
+	{
+		"name" : "icon-clock",
+		"category":[  
+			"time",
+			"schedule",
+			"hour",
+			"alarm"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud",
+		"category":[  
+			"weather",
+			"cloud server"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-add",
+		"category":[  
+			"cloud server",
+			"upload"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-down",
+		"category":[  
+			"cloud server",
+			"download"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-drop",
+		"category":[  
+			"weather",
+			"rain"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-moon",
+		"category":[  
+			"weather",
+			"night",
+			"cloudy"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-rain",
+		"category":[  
+			"weather",
+			"heavy",
+			"rain"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-schedule",
+		"category":[  
+			"server",
+			"recuring"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-sun",
+		"category":[  
+			"weather",
+			"cloudy",
+			"day"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-thunder",
+		"category":[  
+			"weather",
+			"lightning"
+		]
+	}
+	,
+	{
+		"name" : "icon-cloud-up",
+		"category":[  
+			"server",
+			"upload"
+		]
+	}
+	,
+	{
+		"name" : "icon-club",
+		"category":[  
+			"card",
+			"gamble"
+		]
+	}
+	,
+	{
+		"name" : "icon-coffee",
+		"category":[  
+			"beverage",
+			"drink",
+			"hot",
+			"warm"
+		]
+	}
+	,
+	{
+		"name" : "icon-collapse",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-color",
+		"category":[  
+			"pallet",
+			"customize",
+			"scheme"
+		]
+	}
+	,
+	{
+		"name" : "icon-compass",
+		"category":[  
+			"direction",
+			"adventure",
+			"way"
+		]
+	}
+	,
+	{
+		"name" : "icon-conical-flask",
+		"category":[  
+			"science",
+			"experiment",
+			"chemical"
+		]
+	}
+	,
+	{
+		"name" : "icon-contact",
+		"category":[  
+			"address book"
+		]
+	}
+	,
+	{
+		"name" : "icon-cook-hat",
+		"category":[  
+			"cook"
+		]
+	}
+	,
+	{
+		"name" : "icon-copy",
+		"category":[  
+			"dublicate"
+		]
+	}
+	,
+	{
+		"name" : "icon-creditcard",
+		"category":[  
+			"payment",
+			"ecommerce",
+			"money"
+		]
+	}
+	,
+	{
+		"name" : "icon-cross",
+		"category":[  
+			"wrong",
+			"cancel",
+			"icon-collapse"
+		]
+	}
+	,
+	{
+		"name" : "icon-css",
+		"category":[  
+			"style sheet",
+			"css 3"
+		]
+	}
+	,
+	{
+		"name" : "icon-cursor",
+		"category":[  
+			"arrow",
+			"pointer",
+			"click"
+		]
+	}
+	,
+	{
+		"name" : "icon-cycle",
+		"category":[  
+			"activity",
+			"bicycle",
+			"adventure"
+		]
+	}
+	,
+	{
+		"name" : "icon-cycling",
+		"category":[  
+			"activity",
+			"bicycle",
+			"adventure"
+		]
+	}
+	,
+	{
+		"name" : "icon-danger",
+		"category":[  
+			"radiation"
+		]
+	}
+	,
+	{
+		"name" : "icon-dashboard",
+		"category":[  
+			"scale",
+			"difficulty"
+		]
+	}
+	,
+	{
+		"name" : "icon-data",
+		"category":[  
+			"database",
+			"server"
+		]
+	}
+	,
+	{
+		"name" : "icon-date",
+		"category":[  
+			"calendar",
+			"meeting",
+			"schedule"
+		]
+	}
+	,
+	{
+		"name" : "icon-deer",
+		"category":[  
+			"animal",
+			"wild"
+		]
+	}
+	,
+	{
+		"name" : "icon-desktop",
+		"category":[  
+			"screen",
+			"monitor"
+		]
+	}
+	,
+	{
+		"name" : "icon-diamond",
+		"category":[  
+			"card",
+			"gamble"
+		]
+	}
+	,
+	{
+		"name" : "icon-difficult",
+		"category":[  
+			"scale",
+			"difficulty"
+		]
+	}
+	,
+	{
+		"name" : "icon-dish",
+		"category":[  
+			"food",
+			"recipe",
+			"kitchen"
+		]
+	}
+	,
+	{
+		"name" : "icon-dna",
+		"category":[  
+			"science",
+			"gene",
+			"health"
+		]
+	}
+	,
+	{
+		"name" : "icon-dog",
+		"category":[  
+			"animal",
+			"pet"
+		]
+	}
+	,
+	{
+		"name" : "icon-dollar",
+		"category":[  
+			"money",
+			"price"
+		]
+	}
+	,
+	{
+		"name" : "icon-door-tag",
+		"category":[  
+			"hotel",
+			"booking",
+			"travel"
+		]
+	}
+	,
+	{
+		"name" : "icon-download",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-dribbble",
+		"category":[  
+			"social network"
+		]
+	}
+	,
+	{
+		"name" : "icon-drink",
+		"category":[  
+			"cold",
+			"refreshing",
+			"beverage"
+		]
+	}
+	,
+	{
+		"name" : "icon-dropbox",
+		"category":[  
+			"store",
+			"cloud"
+		]
+	}
+	,
+	{
+		"name" : "icon-drums",
+		"category":[  
+			"music",
+			"beat",
+			"orchestra"
+		]
+	}
+	,
+	{
+		"name" : "icon-earth",
+		"category":[  
+			"planet",
+			"nature",
+			"solar system"
+		]
+	}
+	,
+	{
+		"name" : "icon-easy",
+		"category":[  
+			"scale",
+			"difficulty"
+		]
+	}
+	,
+	{
+		"name" : "icon-elephant",
+		"category":[  
+			"animal",
+			"wild"
+		]
+	}
+	,
+	{
+		"name" : "icon-euro",
+		"category":[  
+			"money",
+			"price"
+		]
+	}
+	,
+	{
+		"name" : "icon-expand",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-extreme",
+		"category":[  
+			"scale",
+			"difficulty"
+		]
+	}
+	,
+	{
+		"name" : "icon-eye",
+		"category":[  
+			"watch",
+			"preview",
+			"show"
+		]
+	}
+	,
+	{
+		"name" : "icon-facebook",
+		"category":[  
+			"social network"
+		]
+	}
+	,
+	{
+		"name" : "icon-file",
+		"category":[  
+			"document"
+		]
+	}
+	,
+	{
+		"name" : "icon-filter",
+		"category":[  
+			"funnel"
+		]
+	}
+	,
+	{
+		"name" : "icon-firefox",
+		"category":[  
+			"cross borowser"
+		]
+	}
+	,
+	{
+		"name" : "icon-fish",
+		"category":[  
+			"animal",
+			"aquatic",
+			"fishing"
+		]
+	}
+	,
+	{
+		"name" : "icon-flag",
+		"category":[  
+			"finish",
+			"race"
+		]
+	}
+	,
+	{
+		"name" : "icon-flower",
+		"category":[  
+			"plant"
+		]
+	}
+	,
+	{
+		"name" : "icon-folder",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-forward",
+		"category":[  
+			"music"
+		]
+	}
+	,
+	{
+		"name" : "icon-gas",
+		"category":[  
+			"petrol",
+			"fuel"
+		]
+	}
+	,
+	{
+		"name" : "icon-github",
+		"category":[  
+			"code",
+			"collaborate"
+		]
+	}
+	,
+	{
+		"name" : "icon-gliding",
+		"category":[  
+			"adventure",
+			"sky",
+			"holiday",
+			"activity",
+			"travel"
+		]
+	}
+	,
+	{
+		"name" : "icon-gloves",
+		"category":[  
+			"cold",
+			"winter"
+		]
+	}
+	,
+	{
+		"name" : "icon-google",
+		"category":[  
+			"google plus",
+			"social network"
+		]
+	}
+	,
+	{
+		"name" : "icon-grid",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-guitar",
+		"category":[  
+			"music",
+			"orchestra",
+			"sing"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-dislike",
+		"category":[  
+			"thumbs down",
+			"sign"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-down",
+		"category":[  
+			"below",
+			"point",
+			"sign"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-fist",
+		"category":[  
+			"rock",
+			"sign"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-left",
+		"category":[  
+			"sign"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-like",
+		"category":[  
+			"thumb up",
+			"good",
+			"sign"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-right",
+		"category":[  
+			"sign"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-rock",
+		"category":[  
+			"rock on",
+			"sign"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-scissor",
+		"category":[  
+			"sign",
+			"victory"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-stop",
+		"category":[  
+			"wait",
+			"sign"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-swipe",
+		"category":[  
+			"touch"
+		]
+	}
+	,
+	{
+		"name" : "icon-hand-up",
+		"category":[  
+			"up",
+			"cursor",
+			"pointer"
+		]
+	}
+	,
+	{
+		"name" : "icon-handdrawn-arrow-left",
+		"category":[  
+			"hand drawn"
+		]
+	}
+	,
+	{
+		"name" : "icon-handdrawn-arrow-right",
+		"category":[  
+			"hand drawn"
+		]
+	}
+	,
+	{
+		"name" : "icon-happy",
+		"category":[  
+			"face",
+			"smiley"
+		]
+	}
+	,
+	{
+		"name" : "icon-hard",
+		"category":[  
+			"scale",
+			"difficulty"
+		]
+	}
+	,
+	{
+		"name" : "icon-headset",
+		"category":[  
+			"listen",
+			"music",
+			"ear phone"
+		]
+	}
+	,
+	{
+		"name" : "icon-heart",
+		"category":[  
+			"heartbeat",
+			"health",
+			"card",
+			"gamble",
+			"love",
+			"valentine"
+		]
+	}
+	,
+	{
+		"name" : "icon-heart-beat",
+		"category":[  
+			"heartbeat",
+			"health"
+		]
+	}
+	,
+	{
+		"name" : "icon-helicopter",
+		"category":[  
+			"transport",
+			"vechile",
+			"chopper",
+			"air lift"
+		]	
+	}
+	,
+	{
+		"name" : "icon-help",
+		"category":[  
+			"faq",
+			"questions"
+		]
+	}
+	,
+	{
+		"name" : "icon-hiking",
+		"category":[  
+			"adventure",
+			"tour",
+			"travel",
+			"holiday",
+			"trekking"
+		]
+	}
+	,
+	{
+		"name" : "icon-home",
+		"category":[  
+			"house"
+		]
+	}
+	,
+	{
+		"name" : "icon-horse",
+		"category":[  
+			"animal",
+			"ride",
+			"pet"
+		]
+	}
+	,
+	{
+		"name" : "icon-html5",
+		"category":[  
+			"code",
+			"web"
+		]
+	}
+	,
+	{
+		"name" : "icon-ice-skating",
+		"category":[  
+			"adventure",
+			"activity",
+			"game",
+			"winter"
+		]
+	}
+	,
+	{
+		"name" : "icon-ie",
+		"category":[  
+			"cross browser"
+		]
+	}
+	,
+	{
+		"name" : "icon-info",
+		"category":[  
+			"information",
+			"detail"
+		]
+	}
+	,
+	{
+		"name" : "icon-injection",
+		"category":[  
+			"health",
+			"medicine"
+		]
+	}
+	,
+	{
+		"name" : "icon-island",
+		"category":[  
+			"holiday",
+			"sea",
+			"beach",
+			"travel",
+			"summer"
+		]
+	}
+	,
+	{
+		"name" : "icon-italic",
+		"category":[  
+			"format"
+		]
+	}
+	,
+	{
+		"name" : "icon-jacket",
+		"category":[  
+			"winter",
+			"cloth"
+		]
+	}
+	,
+	{
+		"name" : "icon-jeep",
+		"category":[  
+			"safari",
+			"transport",
+			"vechile"
+		]
+	}
+	,
+	{
+		"name" : "icon-key",
+		"category":[  
+			"password",
+			"security",
+			"access"
+		]
+	}
+	,
+	{
+		"name" : "icon-keyboard",
+		"category":[  
+			"input"
+		]
+	}
+	,
+	{
+		"name" : "icon-knife",
+		"category":[  
+			"kitchen",
+			"sharp"
+		]
+	}
+	,
+	{
+		"name" : "icon-laptop",
+		"category":[  
+			"pc",
+			"computer"
+		]
+	}
+	,
+	{
+		"name" : "icon-leaf",
+		"category":[  
+			"nature",
+			"plant"
+		]
+	}
+	,
+	{
+		"name" : "icon-less",
+		"category":[  
+			"css",
+			"pre proccessor"
+		]
+	}
+	,
+	{
+		"name" : "icon-life-jacket",
+		"category":[  
+			"save",
+			"water",
+			"adventure",
+			"raft"
+		]
+	}
+	,
+	{
+		"name" : "icon-link",
+		"category":[  
+			"anchor",
+			"href"
+		]
+	}
+	,
+	{
+		"name" : "icon-linkedin",
+		"category":[  
+			"social network"
+		]
+	}
+	,
+	{
+		"name" : "icon-list",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-locate",
+		"category":[  
+			"loaction",
+			"direction",
+			"gps"
+		]
+	}
+	,
+	{
+		"name" : "icon-locate-map",
+		"category":[  
+			"location",
+			"direction",
+			"gps"
+		]
+	}
+	,
+	{
+		"name" : "icon-location",
+		"category":[  
+			"location",
+			"direction",
+			"gps"
+		]
+	}
+	,
+	{
+		"name" : "icon-lock",
+		"category":[  
+			"security",
+			"password",
+			"access",
+			"protected"
+		]
+	}
+	,
+	{
+		"name" : "icon-logout",
+		"category":[  
+			"sign out"
+		]
+	}
+	,
+	{
+		"name" : "icon-mail",
+		"category":[  
+			"email",
+			"envelop"
+		]
+	}
+	,
+	{
+		"name" : "icon-mail-open",
+		"category":[  
+			"envelop"
+		]
+	}
+	,
+	{
+		"name" : "icon-map",
+		"category":[  
+			"location",
+			"direction"
+		]	
+	}
+	,
+	{
+		"name" : "icon-medal",
+		"category":[  
+			"winner",
+			"champion"
+		]
+	}
+	,
+	{
+		"name" : "icon-medical",
+		"category":[  
+			"health",
+			"sign",
+			"logo",
+			"hospital"
+		]
+	}
+	,
+	{
+		"name" : "icon-medicine",
+		"category":[  
+			"health",
+			"cure",
+			"hospital",
+			"doctor"
+		]
+	}
+	,
+	{
+		"name" : "icon-medium",
+		"category":[  
+			"scale",
+			"difficulty"
+		]
+	}
+	,
+	{
+		"name" : "icon-message",
+		"category":[  
+			"chat",
+			"communication",
+			"talk"
+		]
+	}
+	,
+	{
+		"name" : "icon-microphone",
+		"category":[  
+			"record"
+		]
+	}
+	,
+	{
+		"name" : "icon-microscope",
+		"category":[  
+			"science",
+			"germ",
+			"experiment"
+		]
+	}
+	,
+	{
+		"name" : "icon-minicart",
+		"category":[  
+			"ecommerce",
+			"shopping"
+		]
+	}
+	,
+	{
+		"name" : "icon-minus",
+		"category":[  
+			"substract"
+		]
+	}
+	,
+	{
+		"name" : "icon-music-note-2",
+		"category":[  
+			"music"
+		]
+	}
+	,
+	{
+		"name" : "icon-mobile",
+		"category":[  
+			"phone",
+			"call",
+			"cell"
+		]
+	}
+	,
+	{
+		"name" : "icon-money",
+		"category":[  
+			"note",
+			"bank note"
+		]
+	}
+	,
+	{
+		"name" : "icon-moon",
+		"category":[  
+			"night",
+			"weather"
+		]
+	}
+	,
+	{
+		"name" : "icon-mountain",
+		"category":[  
+			"landscape"
+		]
+	}
+	,
+	{
+		"name" : "icon-mouse",
+		"category":[  
+			"input"
+		]
+	}
+	,
+	{
+		"name" : "icon-music-note",
+		"category":[  
+			"music",
+			"songs"
+		]
+	}
+	,
+	{
+		"name" : "icon-mute",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-news",
+		"category":[  
+			"newsletter"
+		]
+	}
+	,
+	{
+		"name" : "icon-opera",
+		"category":[  
+			"cross browser"
+		]
+	}
+	,
+	{
+		"name" : "icon-order",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-os-android",
+		"category":[  
+		]
+	}
+	,
+	{
+		"name" : "icon-os-apple",
+		"category":[  
+			"operating system"
+		]
+	}
+	,
+	{
+		"name" : "icon-os-mac",
+		"category":[  
+			"operating system"
+		]
+	}
+	,
+	{
+		"name" : "icon-os-window",
+		"category":[  
+			"operating system"
+		]
+	}
+	,
+	{
+		"name" : "icon-owl",
+		"category":[  
+			"bird",
+			"animal",
+			"wild"
+		]
+	}
+	,
+	{
+		"name" : "icon-paint",
+		"category":[  
+			"brush",
+			"customize"
+		]
+	}
+	,
+	{
+		"name" : "icon-paper-knife",
+		"category":[  
+			"cut"
+		]
+	}
+	,
+	{
+		"name" : "icon-paper-plane",
+		"category":[  
+			"send"
+		]
+	}
+	,
+	{
+		"name" : "icon-paragliding",
+		"category":[  
+			"activity",
+			"adventure",
+			"sky",
+			"travel",
+			"holiday"
+		]
+	}
+	,
+	{
+		"name" : "icon-pdf",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-pencil",
+		"category":[  
+			"write",
+			"edit"
+		]
+	}
+	,
+	{
+		"name" : "icon-phone-tilt",
+		"category":[  
+			"call"
+		]
+	}
+	,
+	{
+		"name" : "icon-pin",
+		"category":[  
+			"tag"
+		]
+	}
+	,
+	{
+		"name" : "icon-pinterest",
+		"category":[  
+			"social network"
+		]
+	}
+	,
+	{
+		"name" : "icon-plane",
+		"category":[  
+			"travel",
+			"ticket",
+			"transport",
+			"boarding"
+		]
+	}
+	,
+	{
+		"name" : "icon-plate",
+		"category":[  
+			"dish",
+			"dinner",
+			"launch"
+		]
+	}
+	,
+	{
+		"name" : "icon-play",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-plug",
+		"category":[  
+			"power"
+		]
+	}
+	,
+	{
+		"name" : "icon-plus",
+		"category":[  
+			"add",
+			"sum"
+		]
+	}
+	,
+	{
+		"name" : "icon-pound",
+		"category":[  
+			"money",
+			"currency"
+		]
+	}
+	,
+	{
+		"name" : "icon-printer",
+		"category":[  
+			"print"
+		]
+	}
+	,
+	{
+		"name" : "icon-quote",
+		"category":[  
+			"blockquote"
+		]
+	}
+	,
+	{
+		"name" : "icon-rafting",
+		"category":[  
+			"adventure",
+			"activity",
+			"water",
+			"river"
+		]
+	}
+	,
+	{
+		"name" : "icon-razor",
+		"category":[  
+			"sharp"
+		]
+	}
+	,
+	{
+		"name" : "icon-record",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-recycle",
+		"category":[  
+			"reuse"
+		]
+	}
+	,
+	{
+		"name" : "icon-reply",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-replyall",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-responsive",
+		"category":[  
+			"design",
+			"device compatible"
+		]
+	}
+	,
+	{
+		"name" : "icon-rewind",
+		"category":[  
+			"previous"
+		]
+	}
+	,
+	{
+		"name" : "icon-road-sign",
+		"category":[  
+			"direction",
+			"cross road"
+		]
+	}
+	,
+	{
+		"name" : "icon-rock-climbing",
+		"category":[  
+			"activity",
+			"adventure"
+		]
+	}
+	,
+	{
+		"name" : "icon-rocket",
+		"category":[  
+			"launch",
+			"fast",
+			"space"
+		]
+	}
+	,
+	{
+		"name" : "icon-round-flask",
+		"category":[  
+			"science",
+			"experiment"
+		]
+	}
+	,
+	{
+		"name" : "icon-rss",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-sad",
+		"category":[  
+			"smiley",
+			"face",
+			"unhappy"
+		]
+	}
+	,
+	{
+		"name" : "icon-safari",
+		"category":[  
+			"cross browser"
+		]
+	}
+	,
+	{
+		"name" : "icon-sass",
+		"category":[  
+			"css preprocessor"
+		]
+	}
+	,
+	{
+		"name" : "icon-saturn",
+		"category":[  
+			"planet"
+		]
+	}
+	,
+	{
+		"name" : "icon-schedule",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-scissor",
+		"category":[  
+			"cut"
+		]
+	}
+	,
+	{
+		"name" : "icon-scooter",
+		"category":[  
+			"transport",
+			"travel",
+			"vechile"
+		]
+	}
+	,
+	{
+		"name" : "icon-scuba-diving",
+		"category":[  
+			"adventure",
+			"activity",
+			"sea"
+		]
+	}
+	,
+	{
+		"name" : "icon-search",
+		"category":[  
+			"find",
+			"magnify"
+		]
+	}
+	,
+	{
+		"name" : "icon-setting",
+		"category":[  
+			"admin"
+		]
+	}
+	,
+	{
+		"name" : "icon-sexaphone",
+		"category":[  
+			"music",
+			"orchestra"
+		]
+	}
+	,
+	{
+		"name" : "icon-share",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-shark",
+		"category":[  
+			"animal",
+			"marine",
+			"sea",
+			"water"
+		]
+	}
+	,
+	{
+		"name" : "icon-ship",
+		"category":[  
+			"travel",
+			"transport",
+			"vechile"
+		]
+	}
+	,
+	{
+		"name" : "icon-shoe",
+		"category":[  
+			"gear",
+			"adventure",
+			"boot"
+		]
+	}
+	,
+	{
+		"name" : "icon-shop",
+		"category":[  
+			"market"
+		]
+	}
+	,
+	{
+		"name" : "icon-shopbag",
+		"category":[  
+			"shopping",
+			"ecommerce",
+			"buy"
+		]
+	}
+	,
+	{
+		"name" : "icon-signal",
+		"category":[  
+			"wifi",
+			"network"
+		]
+	}
+	,
+	{
+		"name" : "icon-sking",
+		"category":[  
+			"adventure",
+			"activity",
+			"outdoor"
+		]
+	}
+	,
+	{
+		"name" : "icon-skype",
+		"category":[  
+			"call",
+			"social networking"
+		]
+	}
+	,
+	{
+		"name" : "icon-snail",
+		"category":[  
+			"slow",
+			"animal"
+		]
+	}
+	,
+	{
+		"name" : "icon-snow",
+		"category":[  
+			"cold",
+			"winter"
+		]
+	}
+	,
+	{
+		"name" : "icon-spade",
+		"category":[  
+			"card",
+			"gamble"
+		]
+	}
+	,
+	{
+		"name" : "icon-star",
+		"category":[  
+			"rating"
+		]
+	}
+	,
+	{
+		"name" : "icon-star-empty",
+		"category":[  
+			"rating"
+		]
+	}
+	,
+	{
+		"name" : "icon-star-half",
+		"category":[  
+			"rating"
+		]
+	}
+	,
+	{
+		"name" : "icon-stethoscope",
+		"category":[  
+			"doctor",
+			"health"
+		]
+	}
+	,
+	{
+		"name" : "icon-stop",
+		"category":[  
+			"square"
+		]
+	}
+	,
+	{
+		"name" : "icon-sun",
+		"category":[  
+			"day",
+			"weather"
+		]
+	}
+	,
+	{
+		"name" : "icon-support",
+		"category":[  
+			"help"
+		]
+	}
+	,
+	{
+		"name" : "icon-swiming",
+		"category":[  
+			"activity",
+			"exercise",
+			"water",
+			"pool"
+		]
+	}
+	,
+	{
+		"name" : "icon-swiss-knife",
+		"category":[  
+			"adventure",
+			"gear",
+			"outdoor"
+		]
+	}
+	,
+	{
+		"name" : "icon-sync",
+		"category":[  
+			"syncronise"
+		]
+	}
+	,
+	{
+		"name" : "icon-tablet",
+		"category":[  
+			"android",
+			"device",
+			"touch"
+		]
+	}
+	,
+	{
+		"name" : "icon-tag",
+		"category":[  
+			"category",
+			"discount",
+			"coupon"
+		]
+	}
+	,
+	{
+		"name" : "icon-tea",
+		"category":[  
+			"drink",
+			"beverage",
+			"warm"
+		]
+	}
+	,
+	{
+		"name" : "icon-telephone",
+		"category":[  
+			"call",
+			"phone"
+		]
+	}
+	,
+	{
+		"name" : "icon-telescope",
+		"category":[  
+			"space",
+			"sky watching"
+		]
+	}
+	,
+	{
+		"name" : "icon-temperature",
+		"category":[  
+			"atmosphere",
+			"climate",
+			"hot"
+		]
+	}
+	,
+	{
+		"name" : "icon-tent",
+		"category":[  
+			"adventure",
+			"travel",
+			"outdoor",
+			"activity",
+			"trekking",
+			"camp"
+		]
+	}
+	,
+	{
+		"name" : "icon-text-transform",
+		"category":[  
+			"format"
+		]
+	}
+	,
+	{
+		"name" : "icon-tick",
+		"category":[  
+			"yes",
+			"right",
+			"done"
+		]
+	}
+	,
+	{
+		"name" : "icon-tooth",
+		"category":[  
+			"dental",
+			"health"
+		]
+	}
+	,
+	{
+		"name" : "icon-tortoise",
+		"category":[  
+			"animal",
+			"reptile",
+			"slow"
+		]
+	}
+	,
+	{
+		"name" : "icon-train",
+		"category":[  
+			"transport",
+			"travel"
+		]
+	}
+	,
+	{
+		"name" : "icon-transfer",
+		"category":[  
+			"sync"
+		]
+	}
+	,
+	{
+		"name" : "icon-transfer2",
+		"category":[  
+			"suffle"
+		]
+	}
+	,
+	{
+		"name" : "icon-trash",
+		"category":[  
+			"delete"
+		]
+	}
+	,
+	{
+		"name" : "icon-tree",
+		"category":[  
+			"plant",
+			"forrest"
+		]
+	}
+	,
+	{
+		"name" : "icon-triangle-down",
+		"category":[  
+			"below"
+		]
+	}
+	,
+	{
+		"name" : "icon-triangle-left",
+		"category":[  
+			"previous"
+		]	
+	}
+	,
+	{
+		"name" : "icon-triangle-right",
+		"category":[  
+			"next"
+		]
+	}
+	,
+	{
+		"name" : "icon-triangle-up",
+		"category":[  
+			"above"
+		]
+	}
+	,
+	{
+		"name" : "icon-tv",
+		"category":[  
+			"show",
+			"program",
+			"entertainment"
+		]
+	}
+	,
+	{
+		"name" : "icon-twitter",
+		"category":[  
+			"social network"
+		]
+	}
+	,
+	{
+		"name" : "icon-umbrella",
+		"category":[  
+			"rain"
+		]
+	}
+	,
+	{
+		"name" : "icon-underline",
+		"category":[  
+			"format"
+		]
+	}
+	,
+	{
+		"name" : "icon-upload",
+		"category":[  
+
+		]
+	}
+	,
+	{
+		"name" : "icon-user",
+		"category":[  
+			"username",
+			"avatar",
+			"people"
+		]
+	}
+	,
+	{
+		"name" : "icon-volume",
+		"category":[  
+			"sound"
+		]
+	}
+	,
+	{
+		"name" : "icon-volume-full",
+		"category":[  
+			"hight volumn",
+			"sound"
+		]
+	}
+	,
+	{
+		"name" : "icon-volume-small",
+		"category":[  
+			"low volumn",
+			"sound"
+		]
+	}
+	,
+	{
+		"name" : "icon-weight",
+		"category":[  
+			"measurement",
+			"scale",
+			"kilo"
+		]
+	}
+	,
+	{
+		"name" : "icon-whale",
+		"category":[  
+			"animal",
+			"aquatic",
+			"water",
+			"marine"
+		]
+	}
+	,
+	{
+		"name" : "icon-wind-surfing",
+		"category":[  
+			"adventure",
+			"activity",
+			"sea",
+			"water",
+			"holiday",
+			"beach"
+		]
+	}
+	,
+	{
+		"name" : "icon-wine",
+		"category":[  
+			"drink",
+			"beverage"
+		]
+	}
+	,
+	{
+		"name" : "icon-winner",
+		"category":[  
+			"cup",
+			"champion"
+		]
+	}
+	,
+	{
+		"name" : "icon-wrench-tilt",
+		"category":[  
+			"work",
+			"admin",
+			"repair",
+			"setting"
+		]
+	}
+	,
+	{
+		"name" : "icon-youtube",
+		"category":[  
+			"video"
+		]
+	}
+	,
+	{
+		"name" : "icon-youtubeplay",
+		"category":[  
+			"video"
+		]
+	}
+	,
+	{
+		"name" : "icon-zoomin",
+		"category":[  
+			"magnify"
+		]
+	}
+	,
+	{
+		"name" : "icon-zoomout",
+		"category":[  
+			"minify"
+		]
+	}
+];
+
+
+
+
+
+
+
